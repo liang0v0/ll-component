@@ -10,7 +10,6 @@ module.exports = {
         '⏪', // 代码合并/拆分
         '📦', // 打包相关
         '🦑', // 样式/功能优化
-        // 也可以保留传统类型（可选）
         'feat', 'fix', 'docs', 'style', 'refactor', 'test', 'chore'
       ]
     ],
